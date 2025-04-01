@@ -1,5 +1,6 @@
 print("giorgi gamtsemlidze")
-print("nino adamia")
+print("luka mamulashvili")
+print("levan skhulukhia")
 print(5+5)
 print(5-5)
 print(5/5)
