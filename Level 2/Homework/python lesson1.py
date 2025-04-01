@@ -1,0 +1,6 @@
+print("giorgi gamtsemlidze")
+print("nino adamia")
+print(5+5)
+print(5-5)
+print(5/5)
+print(5*5)
